@@ -219,7 +219,7 @@ The toolkit is designed to be **engine-agnostic** — its templates work regardl
 
 ## Migration Note
 
-This repository supersedes the earlier [`artist-toolkits-templates`](https://github.com/organvm-ii-poiesis/artist-toolkits-templates) repository, which used a slightly different naming convention. The rename reflects the standardized naming scheme adopted across the ORGAN system during Phase -1 infrastructure work. All content and history from the predecessor have been preserved. If you have bookmarks or references to the old repository name, please update them to point here.
+This repository supersedes the earlier [`artist-toolkit-and-templates`](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates) repository, which used a slightly different naming convention. The rename reflects the standardized naming scheme adopted across the ORGAN system during Phase -1 infrastructure work. All content and history from the predecessor have been preserved. If you have bookmarks or references to the old repository name, please update them to point here.
 
 ## Contributing
 
