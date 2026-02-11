@@ -2,6 +2,14 @@
 
 # Artist Toolkit and Templates
 
+[![CI](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates)
+[![Markdown](https://img.shields.io/badge/lang-Markdown-informational)](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates)
+
+
 **Reusable creative infrastructure for artists working at the intersection of performance, installation, generative systems, and technology-mediated art.**
 
 > *"A template is not a constraint — it is a scaffold that holds space for the work you haven't made yet."*
