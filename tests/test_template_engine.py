@@ -10,9 +10,7 @@ def _sample_template(**overrides) -> Template:
         "name": "grant-application",
         "description": "Standard grant application template",
         "category": "grants",
-        "content": "Project: {{project_name}}
-By: {{author}}
-Optional: {{notes}}",
+        "content": "Project: {{project_name}}\nBy: {{author}}\nOptional: {{notes}}",
         "variables": [
             TemplateVariable(name="project_name", description="Project name", required=True),
             TemplateVariable(name="author", description="Author name", required=True),
